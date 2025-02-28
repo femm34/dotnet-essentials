@@ -11,6 +11,7 @@ public abstract class UserMapper
             Username = userDto.Username,
             Email = userDto.Email,
             Name = userDto.Name,
+            Password = userDto.Password,
             FirstLastName = userDto.FirstLastName,
             SecondLastName = userDto.SecondLastName
         };

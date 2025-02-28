@@ -3,6 +3,7 @@ using MiApi.Business;
 using MiApi.Exceptions;
 using MiApi.Models.DTOs;
 using MiApi.Utils;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.OpenApi.Extensions;
 
@@ -90,7 +91,7 @@ namespace MiApi.Controllers
         }
 
         [HttpGet]
-        // [ApiResponseMessageAtribute("Fetched all users successfully.")]
+        [Authorize]
         public IActionResult GetAllUsers()
         {
             try

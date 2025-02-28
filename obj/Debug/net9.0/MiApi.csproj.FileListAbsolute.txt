@@ -122,3 +122,13 @@
 /Users/fecd/Documents/MiApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/fecd/Documents/MiApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/fecd/Documents/MiApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fecd/Documents/MiApi/obj/Debug/net9.0/MiApi.sourcelink.json
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/fecd/Documents/MiApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll

@@ -11,6 +11,9 @@ public interface IUserRepository
     
     UserDto GetUserById(int id);
     UserDto CreateUser(CreateUserDto userDto);
+    UserDto RegisterUser(CreateUserDto userDto);
+    
+    Task<Token> Login(LoginRequest loginRequest);
     
     UserDto UpdateUser(int id, UpdateUserDto userDto);
 }
